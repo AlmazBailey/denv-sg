@@ -1,0 +1,6 @@
+temp/
+data/
+results/
+.DS_Store
+Icon?
+.ipynb_checkpoints
